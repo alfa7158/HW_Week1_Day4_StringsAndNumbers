@@ -5,7 +5,7 @@ The HomeWork has three components:
 - Strings.
 - Numbers.
 
-    > Note: You must save your solution as `solution.kt` to be submitted before 9AM.
+> Note: You must save all your solution as `solution.kt` to be submitted before 9AM.
 # Instructions 📋
 
 ## Part I - Null Safety.
