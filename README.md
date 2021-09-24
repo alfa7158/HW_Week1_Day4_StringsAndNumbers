@@ -1,6 +1,6 @@
 # HW_Week1_Day4_StringsAndNumbers 😃
 ---
-The HomeWork has three components:
+The Home Work has three components to be delievered before 9AM:
 - Null safety.
 - Strings.
 - Numbers.
