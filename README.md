@@ -1,11 +1,11 @@
 # HW_Week1_Day4_StringsAndNumbers 😃
 ---
-The Home Work has three components to be delievered before 9AM:
+The Home Work has three components to be delievered before 9AM: ⚠️
 - Null safety.
 - Strings.
 - Numbers.
 
-> Note: You must save all your solution as `solution.kt` to be submitted before 9AM.
+> Note: You must save all your solution as `solution.kt` to be submitted before 9AM. ⚠️
 # Instructions 📋
 
 ## Part I - Null Safety.
