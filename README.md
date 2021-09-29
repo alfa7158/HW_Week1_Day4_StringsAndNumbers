@@ -38,7 +38,7 @@ new = brown fox jumps.
 ## Part III - Numbers.
 ---
 ###  Write a Kotlin program to convert temperature from Fahrenheit to Celsius degree.
-#### Input a degree in Fahrenheit: 212 Or Null
+#### Input a degree in Fahrenheit: 212
 
 ###### Use this equation:
 >  C = (5 (F-32)) / 9.
